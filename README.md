@@ -10,3 +10,7 @@ https://github.com/balakreshnan/Samples2023/blob/main/AzureML/ragendtoendcsifact
 ## Factory Data Archiecture
 
 https://github.com/balakreshnan/csifactory/blob/main/IIoT/csifacoryazure.md
+
+## Architect
+
+![alt text](https://github.com/balakreshnan/csifactory/blob/main/IIoT/images/csi7.jpg "Architecture")
